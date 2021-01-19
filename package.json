@@ -1,18 +1,16 @@
 {
-  "name": "@uniswap/merkle-distributor",
-  "author": {
-    "name": "Moody Salem"
-  },
+  "name": "@pyladesprotocol/merkle-distributor",
+  "author": "Andreas Bigger",
   "description": "📦 A smart contract that distributes a balance of tokens according to a merkle root",
-  "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "version": "1.0.0",
+  "homepage": "https://pylades.finance",
   "keywords": [
-    "uniswap",
+    "pylades",
     "erc20"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/merkle-distributor"
+    "url": "https://github.com/pylades/merkle-distributor"
   },
   "files": [
     "build"
